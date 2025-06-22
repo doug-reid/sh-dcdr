@@ -1,7 +1,5 @@
-# Clio:
-A template repository for creating a CLI App with Node.js
+# sh-dcdr:
+A tool for general purpose pulse-based communication analysis
 
-## Bootstrap `package.json`
-1. Change `name`, `description`, `bin` and `author`
-2. (Optional) Update package license from the default: `UNLICENSED`
-3. `npm install && npm link`
+## Setup
+`npm install && npm link`

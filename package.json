@@ -1,6 +1,6 @@
 {
   "name": "sh-dcdr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tool for general purpose pulse-based communication analysis",
   "main": "index.js",
   "scripts": {

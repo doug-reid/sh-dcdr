@@ -14,11 +14,11 @@ A tool for general purpose pulse-based communication analysis
 
 #### Iteration 1: Basic Morse Code Decoding (In Progress)
 
-[Specify a local audio file as input to the decoder utility](https://github.com/doug-reid/sh-dcdr/issues/2)
-[Process the input audio](https://github.com/doug-reid/sh-dcdr/issues/3)
-[Inform the user if the audio does not contain detectable Morse code](https://github.com/doug-reid/sh-dcdr/issues/4)
-[Inform the user if target file does not exist](https://github.com/doug-reid/sh-dcdr/issues/5)
-[Document basic command-line help](https://github.com/doug-reid/sh-dcdr/issues/6)
+- [Specify a local audio file as input to the decoder utility](https://github.com/doug-reid/sh-dcdr/issues/2)
+- [Process the input audio](https://github.com/doug-reid/sh-dcdr/issues/3)
+- [Inform the user if the audio does not contain detectable Morse code](https://github.com/doug-reid/sh-dcdr/issues/4)
+- [Inform the user if target file does not exist](https://github.com/doug-reid/sh-dcdr/issues/5)
+- [Document basic command-line help](https://github.com/doug-reid/sh-dcdr/issues/6)
 
 **Focus:** Core audio input, pulse detection, and simple Morse character decoding.
 
